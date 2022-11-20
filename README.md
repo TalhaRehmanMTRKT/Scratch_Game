@@ -7,6 +7,11 @@ This game was developed in 2018 in `https://scratch.mit.edu/` as a part of cours
 
 
 
-### Talha Rehman ###
-### B.Sc. Electrical Engineering ###
-### Namal University Mianwali, Pakistan ###
+
+
+
+
+
+##### Talha Rehman ###
+##### B.Sc. Electrical Engineering ###
+##### Namal University Mianwali, Pakistan ###
